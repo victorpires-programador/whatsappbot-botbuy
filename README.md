@@ -2,9 +2,6 @@
 
 **Botbuy** é um assistente de compras inteligente para WhatsApp, que permite aos usuários buscar produtos, favoritar itens, remover favoritos e acompanhar as tendências do Mercado Livre, tudo por meio de um bot interativo no WhatsApp.
 
-![Botbuy](https://via.placeholder.com/800x300.png)  
-*(Adicione uma imagem do seu bot ou projeto aqui)*
-
 ## Funcionalidades
 
 - **🔍 Buscar Produtos**  
