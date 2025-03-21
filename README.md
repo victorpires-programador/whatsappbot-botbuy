@@ -29,5 +29,5 @@
 ### **1. Clone o Repositório**
 
 ```bash
-git clone https://github.com/seu-usuario/Botbuy.git
+git clone https://github.com/victorpires-programador/whatsappbot-botbuy.git
 cd Botbuy
